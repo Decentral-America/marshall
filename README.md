@@ -1,6 +1,6 @@
-# @waves/marshall
+# @decentralchain/marshall
 
-Marshall can serialize and parse Waves blockchain data structures
+Marshall can serialize and parse DCC blockchain data structures
 
 ### Includes:
 - Serialization primitives
