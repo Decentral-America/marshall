@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": [
+      "es6",
+      "es7",
+      "es2018"
+    ],
+    "sourceMap": true,
+    "declaration": true,
+    "module": "commonjs",
+    "outDir": "dist",
+    "strict": true,
+    "downlevelIteration": true,
+    "skipLibCheck": true,
+    "types": ["node", "long", "base64-js"]
+  },
+  "include": [
+    "./src/**/*"
+    //"./declarations/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
